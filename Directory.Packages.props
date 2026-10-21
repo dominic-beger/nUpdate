@@ -13,7 +13,7 @@
     <PackageVersion Include="TestableIO.System.IO.Abstractions.Wrappers" Version="22.3.0" />
     <PackageVersion Include="Microsoft.Win32.Registry" Version="5.0.0" />
     <PackageVersion Include="System.ServiceProcess.ServiceController" Version="10.0.13" />
-    <PackageVersion Include="FluentFTP" Version="55.0.0" />
+    <PackageVersion Include="FluentFTP" Version="55.1.0" />
     <PackageVersion Include="SSH.NET" Version="2026.0.0" />
     <PackageVersion Include="Microsoft.AspNetCore.DataProtection" Version="10.0.13" />
     <PackageVersion Include="Microsoft.AspNetCore.DataProtection.Extensions" Version="10.0.13" />
